@@ -2,7 +2,7 @@
    
   <div>
     <el-upload
-      action="http://gulimall-nkc001.oss-cn-hangzhou.aliyuncs.com"
+      action="http://gulimall-nkc.oss-cn-hangzhou.aliyuncs.com"
       :data="dataObj"
       list-type="picture"
       :multiple="false"

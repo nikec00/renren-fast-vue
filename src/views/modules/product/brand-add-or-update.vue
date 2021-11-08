@@ -24,6 +24,7 @@
         <el-switch
           v-model="dataForm.showStatus"
           active-color="#13ce66"
+          :active-value="1" :inactive-value="0"
           inactive-color="#ff4949"
         ></el-switch>
       </el-form-item>
